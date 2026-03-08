@@ -104,3 +104,5 @@ Ce bloc est à adapter au contexte de l'utilisateur, puis à coller dans le cham
 > Si tu ne trouves rien de pertinent dans les sources : dis-le clairement. Ne jamais inventer de procédures ou de contenus qui ne sont pas explicitement dans tes documents.
 
 ---
+
+Maintenant, tu vas m'aider étape par étape, en tenant compte de tous les éléments de ce guide, à créer mon nouvel agent Copilot.
