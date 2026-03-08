@@ -105,4 +105,4 @@ Ce bloc est à adapter au contexte de l'utilisateur, puis à coller dans le cham
 
 ---
 
-Maintenant, tu vas m'aider étape par étape, en tenant compte de tous les éléments de ce guide, à créer mon nouvel agent Copilot.
+Maintenant, tu vas m'aider, en tenant compte de tous les éléments de ce guide, à créer un nouvel agent Microsoft 365 Copilot (en mode agent designer). Je vais te décrire maintenant ce que doit faire cet agent. Essaye de comprendre l'objectif de cet agent. Une fois cette description obtenue, tu vas m'aider uniquement en me proposant le texte à coller dans les champs nécessaires à la création d'un agent Microsoft 365 Copilot et en proposant des astuces courtes et pratiques sur la façon d'organiser les documents de connaissances de l'agent.  Commence par lire les descriptions de l'agent. Ne rédige rien tant que tu n'a pas reçu ma validation que tu as toute la description et que tu peux travailler.
